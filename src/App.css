@@ -1,0 +1,55 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.demo-editor {
+  margin-bottom: 50px;
+  padding: 5px;
+}
+
+.demo-wrapper {
+  padding: 8px;
+  border: 1px solid rgb(228, 227, 227);
+}
+
+.button-container {
+  text-align: center;
+}
+.button {
+  background-color: #2ea44f;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 6px 16px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: #2c974b;
+}
+
+.codeCSS {
+  font-family: MyFancyCustomFont, monospace;
+  font-size: inherit;
+  background: #ebebeb;
+  word-wrap: break-word;
+  box-decoration-break: clone;
+  padding: 0.1rem 0.8rem 0.2rem;
+  border-radius: 0.2rem;
+  color: rgb(0, 0, 0);
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.blockQuoteCSS {
+  color: rgb(255, 255, 255);
+  font-style: italic;
+  text-align: center;
+  border-left: 3px solid #ebebeb;
+  padding: 0.1rem 0.8rem 0.2rem;
+}
